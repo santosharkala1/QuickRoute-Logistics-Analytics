@@ -1,5 +1,12 @@
 # QuickRoute Logistics — Last-Mile Delivery Operations Analytics
 
+## View the Dashboard
+
+[View the Six-Page Power BI Dashboard (PDF)](QuickRoute_Logistics_Delivery_Analytics.pdf)
+
+[Download the Power BI Project (.pbix)](QuickRoute_Logistics_Delivery_Analytics.pbix)
+
+
 **End-to-end Power BI portfolio project | Data cleaning · Data modeling · DAX · Interactive reporting**
 
 ## Project overview
