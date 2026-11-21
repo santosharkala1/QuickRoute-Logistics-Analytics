@@ -104,7 +104,7 @@ Screenshots and report files document the project work. Source CSV files should 
 
 ## Scope and limitations
 
-- This is a portfolio analysis of a fictional business and the supplied course dataset; findings should not be interpreted as actual QuickRoute Logistics results.
+- This is a portfolio analysis of a fictional business and the supplied course dataset and findings should not be interpreted as actual QuickRoute Logistics results.
 - The data does not establish the root cause of differences by delivery zone, service type, driver, or vehicle. Recommendations are investigative priorities.
 - Some names are duplicated across different customer IDs. High-value-customer charts use a unique ID-aware label to avoid aggregating unrelated customers under one name.
-- The PDF is a static export; slicer interaction is available in the `.pbix` report.
+- The PDF is a static export and slicer interaction is available in the `.pbix` report.
